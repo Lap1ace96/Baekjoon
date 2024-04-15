@@ -15,8 +15,3 @@ if C.count(max(C)) >= 2:
     print('?')
 else:
     print(B[C.index(max(C))])
-
-
-
-# cnt = ['4','4','5','1','1']
-# print(max(cnt))
